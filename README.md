@@ -2,9 +2,10 @@
 
 **Perception matters: exploring imperceptible and transferable anti-forensics forGAN-generated fake face imagery detection**
 
+<img src='https://github.com/enkiwang/Imperceptible-fake-face-antiforensic/example.png'
+width=800>
 
 This repository contains our code for the project "Perception matters: exploring imperceptible and transferable anti-forensics for GAN-generated fake face imagery detection". 
-
 
 
 ## Implementation
