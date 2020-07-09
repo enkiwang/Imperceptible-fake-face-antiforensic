@@ -32,7 +32,7 @@ After downloading the dataset, please unzip and put them in the data directory.
  
 
 ### Models
-The pretrained deep learning-based fake face forensic models can be downloaded [here](https://drive.google.com/file/d/1Me6i2xKHbMdh7I-JS7ZJ1QN-6e-SBeov/view?usp=sharing). After downloading pretrained models, please put them in the checkPoint directory. 
+The pretrained deep learning-based fake face forensic models can be downloaded [here](https://drive.google.com/file/d/1Me6i2xKHbMdh7I-JS7ZJ1QN-6e-SBeov/view?usp=sharing). After downloading pretrained models, please uncompress and put them in the checkPoint directory. 
 
 
 ### Run attacks 
