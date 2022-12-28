@@ -43,7 +43,17 @@ bash ./run_attack.sh
 
 If you find our code useful in your research, please consider citing our work: 
 
-
+```bib
+@article{wang2021perception,
+  title={Perception matters: Exploring imperceptible and transferable anti-forensics for GAN-generated fake face imagery detection},
+  author={Wang, Yongwei and Ding, Xin and Yang, Yixin and Ding, Li and Ward, Rabab and Wang, Z Jane},
+  journal={Pattern Recognition Letters},
+  volume={146},
+  pages={15--22},
+  year={2021},
+  publisher={Elsevier}
+}
+```
 
 
 
