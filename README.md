@@ -1,6 +1,6 @@
 ## An Imperceptible Anti-forensic Method, Models and Dataset 
 
-**Perception matters: exploring imperceptible and transferable anti-forensics forGAN-generated fake face imagery detection**
+**Perception matters: exploring imperceptible and transferable anti-forensics for GAN-generated fake face imagery detection**
 
 <img 
 src="https://github.com/enkiwang/Imperceptible-fake-face-antiforensic/blob/master/example.png/"
